@@ -53,7 +53,8 @@ public class Clase9 {
         }
 
         System.out.print("\nResultado de suma de pares: " + resultadoPares + 
-                    "\nResultado multiplicación de impares: " + resultadoImpares);
+                    "\nResultado multiplicación de impares: " + resultadoImpares +
+                    "\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
     }
 
 
